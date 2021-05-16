@@ -28,7 +28,7 @@
 
 
 - <img align="center" alt="Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Conhecimento intermediary.
-- <img align="center" alt="Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Conhecimento intermediary/advanced.
+- <img align="center" alt="Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Conhecimento intermediary.
 - <img align="center" alt="Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> Conhecimento intermediary.
 - <img align="center" alt="Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Estudos iniciados com enfoque em automaçao.
 
