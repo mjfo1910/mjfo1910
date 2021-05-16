@@ -34,8 +34,8 @@
 
 ### Front-end:
 
-- <img align="center" alt="HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Conhecimento advanced.
-- <img align="center" alt="CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Conhecimento advanced.
+- <img align="center" alt="HTML" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> Conhecimento intermediary.
+- <img align="center" alt="CSS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Conhecimento intermediary.
 - <img align="center" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> Conhecimento intermediary.
 - <img align="center" alt="Js" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> Conhecimento intermediary/advanced.
 - <img align="center" alt="Js" heigth="28" width="40" src="https://api.nuget.org/v3-flatcontainer/angular-ui-material-template/1.0.2/icon"> Conhecimento intermediary.
