@@ -4,7 +4,7 @@
 
 - :checkered_flag: Moro em São Paulo, :brazil:
 - :newspaper: Estagiário de TI
-- :computer: Estudande de Analise e desenvolvimento de software
+- :computer: Estudande de Analise e desenvolvimento de sistemas
 - :computer: Grupo Paineiras
 
 ## Contatos
