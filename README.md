@@ -3,9 +3,8 @@
 ## 
 
 - :checkered_flag: Moro em São Paulo, :brazil:
-- :newspaper: Estagiário de TI
-- :computer: Estudande de Analise e desenvolvimento de sistemas
-- :computer: Grupo Paineiras
+- :newspaper: Desenvolvedor Web
+- :computer: Digital Vance e Reforma Digital
 
 ## Contatos
 
